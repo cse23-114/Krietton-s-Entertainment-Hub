@@ -2,15 +2,27 @@
 <html lang="en">
   <head>
   <meta charset="uft-8">
-  <meta name="viewport" content="widthdevicewidth", initial-scale=1.0">
+  <meta name="viewport" content="width=device-width", initial-scale=1.0">
   <title>Krietton's Entertainment Hub</title>  
   head {
   font size: 50px; 
 }
-
-  </head>
-  <body>
+</head>
+<body>
     <h1>Welcome to the World of Entertainment!</h1>
-  body {
+  h1 {
   font size: 20;
-}
+  }
+</body>
+
+<nav>
+<li> {
+display; in-line
+} 
+<ul>
+<li><a href="#home">Home</a></li>
+  <li><a href="#movies">Movies</a></li>
+  <li><a href="#games">Games</a></li>
+  <li><a href="#tvshows">TVshows</a></li>
+</ul>
+</nav>
